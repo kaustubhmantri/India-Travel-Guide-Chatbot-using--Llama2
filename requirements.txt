@@ -1,0 +1,11 @@
+langchain
+torch
+accelerate
+transformers
+sentence_transformers
+faiss-cpu
+altair
+tiktoken
+huggingface-hub
+flask
+pypdf
